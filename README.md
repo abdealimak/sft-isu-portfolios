@@ -3,16 +3,28 @@
 A community-curated list of portfolio websites built by students of **SFT-ISU**.  
 Browse for inspiration, find your batchmates, or add your own!
 
+---
 
-> ⭐ If you find this useful, star the repo — it helps others discover it!
+## 💡 Why This Exists
+
+We're all in the same college — yet most of us have no idea what our peers and seniors are building, what technologies they're exploring, or what they're passionate about.
+
+Seniors especially are an untapped resource. They've been through what you're going through, they've built things, they have experience — but we rarely get to see their work or even know what they're into.
+
+That gap makes it hard to **collaborate, get inspired, find a mentor, or just connect** with the right people.
+
+This repo fixes that. It's a single place where every SFT-ISU student — across all batches and cohorts — can put their work out there and be discovered.
+
+**Your portfolio tells your story. Share it. A batchmate might collaborate with you. A junior might look up to you. A senior might reach out.** 🚀
 
 ---
 
 ## 📌 How to Add Yours
 
 1. Read the [Contributing Guide](CONTRIBUTING.md)
-2. Make sure your **GitHub bio mentions SFT-ISU**
-3. Open a Pull Request adding your name under your **batch year → cohort name**, in alphabetical order
+2. Fork this repo
+3. Add your entry under your **Batch → Cohort** section in alphabetical order
+4. Open a Pull Request with your SFT-ISU email
 
 **Format:**
 ```
@@ -78,4 +90,5 @@ Browse for inspiration, find your batchmates, or add your own!
 
 ---
 
+> ⭐ If you find this useful, star the repo — it helps others discover it!
 <p align="center">Made with ❤️ by <a href="https://github.com/abdealimak">Abdeali Makda</a></p>
