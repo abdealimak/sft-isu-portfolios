@@ -4,12 +4,13 @@
 **Portfolio URL:**  
 **Batch:** (23-27 / 24-28 / 25-29)  
 **Cohort:** (e.g. Larry Page / Steve Jobs / Elon Musk…)  
+**SFT-ISU Email:**  
 
 ---
 
 ## ✅ Checklist
 
-- [ ] My **GitHub profile bio** mentions `SFT-ISU`
+- [ ] I have provided my **SFT-ISU college email** above
 - [ ] My portfolio link is **live and working**
 - [ ] I added my entry under the correct **Batch → Cohort** section
 - [ ] My entry is in **alphabetical order** within the cohort
@@ -19,4 +20,4 @@
 
 ---
 
-> PRs that don't satisfy the checklist will be closed without merging.
+> PRs without a valid SFT-ISU email will be closed without merging.

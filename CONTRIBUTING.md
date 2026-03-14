@@ -8,8 +8,8 @@ Thanks for wanting to add your portfolio! Follow these steps and your PR will ge
 
 Make sure **all** of the following are true:
 
-- [ ] You are a **current student or alumnus of ITM SKILLS UNIVERSITY**
-- [ ] Your **GitHub profile bio** mentions `SFT-ISU` — this is how we verify you belong here
+- [ ] You are a **current student of SFT-ISU**
+- [ ] You have your **SFT-ISU college email** handy — this is how we verify you belong here
 - [ ] Your portfolio website is **live and accessible**
 - [ ] You haven't already submitted
 
@@ -58,13 +58,13 @@ Find your batch and cohort below, then add your entry to that exact section:
    ```bash
    git push origin add-your-name
    ```
-7. **Open a Pull Request** — the PR template will guide you
+7. **Open a Pull Request** — fill in the PR template including your **SFT-ISU email**
 
 ---
 
 ## ❌ PRs Will Be Rejected If
 
-- Your GitHub bio does **not** mention `SFT-ISU`
+- No **SFT-ISU college email** is provided in the PR
 - The portfolio link is broken or leads to a blank page
 - The entry is not placed in the correct Batch → Cohort section
 - The entry is not in alphabetical order within the cohort
