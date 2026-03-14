@@ -66,7 +66,7 @@ Browse for inspiration, find your batchmates, or add your own!
 *(none yet — open a PR!)*
 
 ### Larry Page Cohort
-*(none yet — open a PR!)*
+* [Ramjee Mishra](https://ramjeemishra.com/)
 
 ### Sam Altman Cohort
 *(none yet — open a PR!)*
