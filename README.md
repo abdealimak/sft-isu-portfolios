@@ -3,6 +3,9 @@
 A community-curated list of portfolio websites built by students of **SFT-ISU**.  
 Browse for inspiration, find your batchmates, or add your own!
 
+
+> ⭐ If you find this useful, star the repo — it helps others discover it!
+
 ---
 
 ## 📌 How to Add Yours
