@@ -64,7 +64,7 @@ Find your batch and cohort below, then add your entry to that exact section:
 
 ## ❌ PRs Will Be Rejected If
 
-- No **SFT-ISU college email** is provided in the PR
+- No **SFT-ISU college email** is provided in the PR description
 - The portfolio link is broken or leads to a blank page
 - The entry is not placed in the correct Batch → Cohort section
 - The entry is not in alphabetical order within the cohort
