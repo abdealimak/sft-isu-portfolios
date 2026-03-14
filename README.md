@@ -26,12 +26,6 @@ Browse for inspiration, find your batchmates, or add your own!
 
 ---
 
-## 📊 Total Portfolios: 0
-
-*Be the first to add yours! 🚀*
-
----
-
 **Jump to:**
 [Batch 23-27](#batch-23-27) · [Batch 24-28](#batch-24-28) · [Batch 25-29](#batch-25-29)
 
