@@ -81,4 +81,4 @@ Browse for inspiration, find your batchmates, or add your own!
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/abdealimak">abdealimak</a></p>
+<p align="center">Made with ❤️ by <a href="https://github.com/abdealimak">Abdeali Makda</a></p>
