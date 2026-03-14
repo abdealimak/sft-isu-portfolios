@@ -1,0 +1,30 @@
+name: Validate Portfolio Submission
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check entry format
+        run: |
+          echo "✅ Checking that all portfolio entries follow the required format..."
+
+          # Match lines like: * [Name](URL) — Cohort XX-XX
+          INVALID=$(grep -nP '^\* \[' README.md | grep -vP '^\d+:\* \[.+\]\(https?://.+\)' || true)
+
+          if [ -n "$INVALID" ]; then
+            echo "❌ The following lines don't match the required format:"
+            echo "$INVALID"
+            echo ""
+            echo "Required format: * [Your Name](https://your-url.com) — Cohort XX-XX | Role (optional)"
+            exit 1
+          fi
+
+          echo "✅ All entries look good!"
