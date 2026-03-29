@@ -77,6 +77,7 @@ This repo fixes that. It's a single place where every SFT-ISU student — across
 
 ### Larry Page Cohort
 * [Ramjee Mishra](https://ramjeemishra.com/)
+* [Somyajeet Singh](https://www.somyacodes.in/)
 
 ### Sam Altman Cohort
 *(none yet — open a PR!)*
